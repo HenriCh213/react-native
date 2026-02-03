@@ -1,1 +1,1 @@
-# react-native
+npx expo start
